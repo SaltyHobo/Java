@@ -1,7 +1,8 @@
 
 # Java
-### repository for Java files
+### main repository for Java files
 
+<br/>
 #### See my other repository for JavaScript, React, and web design projects:
 <ul>
   <li>
