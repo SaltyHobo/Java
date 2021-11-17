@@ -77,6 +77,7 @@ public class HelloWorld {
         }
         System.out.println("***");
     }
+    //personal method printList:
     public static void printList(ArrayList<String> theList) {
         for (String string: theList) {
             System.out.println(" "+string);
