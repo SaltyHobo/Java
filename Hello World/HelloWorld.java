@@ -1,6 +1,6 @@
 //introduce the Scanner tool used for reading user input:
 import java.util.Scanner;
-//introduce Arrays:
+//introduce Lists:
 import java.util.ArrayList;
 
 public class HelloWorld {
