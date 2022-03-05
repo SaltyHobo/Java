@@ -3,6 +3,9 @@
  *
  * @author SaltyHobo
  */
+
+import java.util.Scanner;
+
 public class Store {
     private Warehouse warehouse;
     private Scanner scanner;
