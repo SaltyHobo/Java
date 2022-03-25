@@ -6,8 +6,8 @@
 #### &#9745; a game of Tic Tac Toe:
 <ul>
   <li>
-    [Tic Tac Toe Game](/tictactoe/)
-    <a href="https://github.com/saltyhobo/java/tictactoe/">Tic Tac Toe Game</a>
+    [Tic Tac Toe Game](tictactoe/)
+    //<a href="https://github.com/saltyhobo/java/tictactoe/">Tic Tac Toe Game</a>
   </li>
 </ul>
 
