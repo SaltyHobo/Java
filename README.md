@@ -6,8 +6,6 @@
 #### &#9745; a game of Tic Tac Toe:
 <ul>
   <li>
-    [Tic Tac Toe Game](java/tree/main/tictactoe/)
-    <br/>
     <a href="https://github.com/SaltyHobo/Java/tree/main/ticTacToe">Tic Tac Toe Game</a>
   </li>
 </ul>
@@ -15,7 +13,7 @@
 #### &#9745; a very simple store app:
 <ul>
   <li>
-    <a href="https://github.com/saltyhobo/java/simplestoreapp/">Simple Store App</a>
+    <a href="https://github.com/SaltyHobo/Java/tree/main/simpleStoreApp">Simple Store App</a>
   </li>
 </ul>
 
