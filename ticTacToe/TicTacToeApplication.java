@@ -4,6 +4,11 @@ import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 
+/*
+ *@author SaltyHobo
+ *
+ * My submission for part 13_13.TicTacToe of University of Helsinki’s MOOC on Java programming.
+ */
 
 public class TicTacToeApplication extends Application {
     
