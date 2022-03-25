@@ -7,7 +7,7 @@
 <ul>
   <li>
     [Tic Tac Toe Game](java/tree/master/tictactoe/)
-    <a href="https://github.com/saltyhobo/java/tictactoe/">Tic Tac Toe Game</a>
+    <a href="https://github.com/saltyhobo/java/tree/master/tictactoe/">Tic Tac Toe Game</a>
   </li>
 </ul>
 
