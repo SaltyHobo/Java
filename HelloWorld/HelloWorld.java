@@ -13,12 +13,6 @@ public class HelloWorld {
         list.add(text1);
         String text2 = "World";
         list.add(text2);
-        //System.out.println(list);
-        /*for (String word: list) {
-            System.out.println(" ");
-            System.out.println(" "+word);
-            System.out.println(" ");
-        }*/
         printList(list);
         printTreeUp(4);
         printBase(4);
