@@ -3,14 +3,14 @@
 ### main repository for Java files
 
 
-#### &#9745; Some SVG D3 Data Visualization:
+#### &#9745; a game of Tic Tac Toe:
 <ul>
   <li>
-    <a href="https://saltyhobo.github.io/freecodecamp/data-visualization/">Data Visualization Projects</a>
+    <a href="https://github.com/saltyhobo/java/tictactoe/">Tic Tac Toe Game</a>
   </li>
 </ul>
 
-#### &#9745; Simple Store App:
+#### &#9745; a very simple store app:
 <ul>
   <li>
     <a href="https://github.com/saltyhobo/java/simplestoreapp/">Simple Store App</a>
