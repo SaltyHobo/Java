@@ -3,6 +3,13 @@
 ### main repository for Java files
 
 
+#### &#9745; a financial report analysis builder (example Excel sheets, not the full analysis):
+<ul>
+  <li>
+    <a href="https://github.com/SaltyHobo/Java/tree/main/JavaFinReportBuilder/src/main/java">Financial Report Analysis Builder</a>
+  </li>
+</ul>
+
 #### &#9745; a game of Tic Tac Toe:
 <ul>
   <li>
