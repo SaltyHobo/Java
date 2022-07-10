@@ -3,7 +3,7 @@
 ### main repository for Java files
 
 
-#### &#9745; a financial report analysis builder (example Excel sheets, not the full analysis):
+#### &#9745; a financial report analysis builder (example Excel sheets, not the full analysis, contact me if you're interested in discussing financial analysis):
 <ul>
   <li>
     <a href="https://github.com/SaltyHobo/Java/tree/main/JavaFinReportBuilder/src/main/java">Financial Report Analysis Builder</a>
