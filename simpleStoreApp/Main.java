@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
  
     public static void main(String[] args) {
-        // Test your app here
+        
         Scanner scanner = new Scanner(System.in);
         
         Warehouse warehouse = new Warehouse();
